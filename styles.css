@@ -25,6 +25,11 @@ body {
   color: var(--font-color);
 }
 
+a{
+  text-decoration: none;
+  color: var(--font-color);
+}
+
 .hero {
   height: 100vh;
   display: flex;
