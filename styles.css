@@ -54,7 +54,8 @@ a{
   height: auto;
   margin-bottom: var(--space-md);
   position: absolute;
-  top: var(--space-md);
+  top: var(--space-sm);
+  left: var(--space-sm);
 }
 
 .nav-links {
