@@ -25,9 +25,9 @@
   }
 
   .logo {
-    width: 6rem;
-    left: 0;
-    top: 0;
+    width: 5.5rem;
+    left: 7px;
+    top: 4px;
   }
 
   .nav-links {
@@ -90,7 +90,9 @@
   }
 
   .logo {
-    width: 9rem; /* Adjusted from var(--text-9xl) which was too large */
+    width: 8.5rem; /* Adjusted from var(--text-9xl) which was too large */
+    top: 4px;
+    left: 7px;
   }
 }
 
@@ -111,10 +113,10 @@
   }
 
   .logo {
-    width: 12rem;
+    width: 10rem;
     position:absolute;
-    top:0;
-    left:0;
+    top: 4px;
+    left: 7px;
   }
 
   .nav-link {
