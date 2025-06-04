@@ -37,7 +37,7 @@
 
   .logo {
     width: 2rem;
-    left: 1rem;
+    left: 5px;
     top: 5px;
   }
 
@@ -125,7 +125,7 @@
 
   .logo {
     width: 4rem;
-    calc(var(--nav-width) / 4);
+    left: calc(var(--nav-width) / 4);
     top: 2rem;
   }
 
