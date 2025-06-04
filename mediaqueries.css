@@ -36,9 +36,9 @@
   }
 
   .logo {
-    width: 4rem;
-    left: 7px;
-    top: 4px;
+    width: 2rem;
+    left: 1.5%;
+    top: 2%;
   }
 
   .nav-links {
@@ -101,18 +101,18 @@
   }
 
   .logo {
-    width: 7rem; /* Adjusted from var(--text-9xl) which was too large */
-    top: 4px;
-    left: 7px;
+    width: 3rem; /* Adjusted from var(--text-9xl) which was too large */
+    left: 1.5%;
+    top: 2%;
   }
 }
 
 /* Laptops: 769px - 1024px */
 @media (min-width: 769px) and (max-width: 1024px) {
   .logo {
-    width: 8.5rem;
-    left: 0;
-    top: 0;
+    width: 4rem;
+    left: 1.5%;
+    top: 2%;
   }
 }
 
@@ -124,10 +124,10 @@
   }
 
   .logo {
-    width: 9rem;
+    width: 4rem;
     position: absolute;
-    top: 4px;
-    left: 7px;
+    left: 1.5%;
+    top: 2%;
   }
 
   .nav-link {
